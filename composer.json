@@ -1,5 +1,5 @@
 {
-    "name" : "birgir/geo-query",
+    "name" : "vdrnn/geo-query",
     "description" : "Modify the WP_Query to support the geo_query parameter. Uses the Haversine SQL optimization by Ollie Jones.",
     "type" : "wordpress-plugin",
     "keywords" : [ "wordpress" ],
